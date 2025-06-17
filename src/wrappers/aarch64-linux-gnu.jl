@@ -2,12 +2,11 @@
 export zeromqinterface
 
 using GAP_jll
-using GAP_lib_jll
 using ZeroMQ_jll
 JLLWrappers.@generate_wrapper_header("GAP_pkg_zeromqinterface")
 JLLWrappers.@declare_file_product(zeromqinterface)
 function __init__()
-    JLLWrappers.@generate_init_header(GAP_jll, GAP_lib_jll, ZeroMQ_jll)
+    JLLWrappers.@generate_init_header(GAP_jll, ZeroMQ_jll)
     JLLWrappers.@init_file_product(
         zeromqinterface,
         "lib/gap/zeromqinterface.so",
