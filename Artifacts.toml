@@ -1,11 +1,11 @@
 [[GAP_pkg_zeromqinterface]]
 arch = "aarch64"
-git-tree-sha1 = "6b79aa50f9a0d90b3367d9428c6bd7691001a983"
+git-tree-sha1 = "6036abe71fd6e0af168807d4158bc89b80f41578"
 os = "macos"
 
     [[GAP_pkg_zeromqinterface.download]]
-    sha256 = "376fb730612ce8b7ca02274078ca17b0da08bc068fad3c8f85fcdbd75018e6ed"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.0+0/GAP_pkg_zeromqinterface.v1.180000.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "6b52296d5da157ba070834d004496c1557045a3075380ac36e897648a2f9e962"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.1+0/GAP_pkg_zeromqinterface.v1.180000.1.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_zeromqinterface]]
 arch = "aarch64"
 git-tree-sha1 = "eb59c2b1357b9bba550d75a0137c066947f1e64a"
@@ -14,7 +14,7 @@ os = "linux"
 
     [[GAP_pkg_zeromqinterface.download]]
     sha256 = "fbc2cd1e146af1227eeff7e68bfc1138c1c94f366a5ca9d5f9aad217bc023856"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.0+0/GAP_pkg_zeromqinterface.v1.180000.0.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.1+0/GAP_pkg_zeromqinterface.v1.180000.1.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_zeromqinterface]]
 arch = "aarch64"
 git-tree-sha1 = "4a9ff4c38b5b28ef2268facb39f32c369fe6631e"
@@ -23,15 +23,15 @@ os = "linux"
 
     [[GAP_pkg_zeromqinterface.download]]
     sha256 = "435e997d439ae7f3c5eb67b940aa282f9e808b69de88f92a4f52ede4b5907927"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.0+0/GAP_pkg_zeromqinterface.v1.180000.0.aarch64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.1+0/GAP_pkg_zeromqinterface.v1.180000.1.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_zeromqinterface]]
 arch = "aarch64"
-git-tree-sha1 = "d5202270378d9e9032973622ab47480402d37185"
+git-tree-sha1 = "5af5e35273c0882f9b7dc659cc45a86790bcd877"
 os = "freebsd"
 
     [[GAP_pkg_zeromqinterface.download]]
-    sha256 = "9a2d766429e2b419950683ab4fec121e655c09f8949d9831760f26c8edd4769d"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.0+0/GAP_pkg_zeromqinterface.v1.180000.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "49578efb06102cd50e1a37c53e6fbd58c6db472ee0e819e1e01fe8f3e2ef38c3"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.1+0/GAP_pkg_zeromqinterface.v1.180000.1.aarch64-unknown-freebsd.tar.gz"
 [[GAP_pkg_zeromqinterface]]
 arch = "powerpc64le"
 git-tree-sha1 = "e7fc08fc407b8959eaf1f900ceb0b99ccd4a380b"
@@ -40,7 +40,7 @@ os = "linux"
 
     [[GAP_pkg_zeromqinterface.download]]
     sha256 = "9ba99ded4f3fd0564127768952f043da2e073308395aa13d10f1ddb65fd06197"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.0+0/GAP_pkg_zeromqinterface.v1.180000.0.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.1+0/GAP_pkg_zeromqinterface.v1.180000.1.powerpc64le-linux-gnu.tar.gz"
 [[GAP_pkg_zeromqinterface]]
 arch = "riscv64"
 git-tree-sha1 = "2c1dd2f1c65111d4a663e80a0c8f18adc0995f19"
@@ -49,15 +49,15 @@ os = "linux"
 
     [[GAP_pkg_zeromqinterface.download]]
     sha256 = "32556f8851c73a04340fc091843272fe8e2f49939249e3e0bed7736370f14c2c"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.0+0/GAP_pkg_zeromqinterface.v1.180000.0.riscv64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.1+0/GAP_pkg_zeromqinterface.v1.180000.1.riscv64-linux-gnu.tar.gz"
 [[GAP_pkg_zeromqinterface]]
 arch = "x86_64"
-git-tree-sha1 = "e5afa0f35f8420389d52482f475f72195d5a4694"
+git-tree-sha1 = "ad138600e546e17e728fb852a583d7a2f1a6a585"
 os = "macos"
 
     [[GAP_pkg_zeromqinterface.download]]
-    sha256 = "e39848299a267c0c48548a39d5edcfb8ac2a2b8d1b3319fd7db4b1ddfdeb0301"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.0+0/GAP_pkg_zeromqinterface.v1.180000.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "6d47560c9011e23e334b39e07460afce228c62b22a9b39c8b95f327263fe95ef"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.1+0/GAP_pkg_zeromqinterface.v1.180000.1.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_zeromqinterface]]
 arch = "x86_64"
 git-tree-sha1 = "66d971bdd80bf7cf34d184b24d9d388344d4e044"
@@ -66,7 +66,7 @@ os = "linux"
 
     [[GAP_pkg_zeromqinterface.download]]
     sha256 = "1c383d2480ded2fbc08248cc65a757bcade52ec5108a9c1d7f12386235361118"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.0+0/GAP_pkg_zeromqinterface.v1.180000.0.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.1+0/GAP_pkg_zeromqinterface.v1.180000.1.x86_64-linux-gnu.tar.gz"
 [[GAP_pkg_zeromqinterface]]
 arch = "x86_64"
 git-tree-sha1 = "cc0c10a3a2d35f7af1cc8b6229bbc1b644ad132f"
@@ -75,12 +75,12 @@ os = "linux"
 
     [[GAP_pkg_zeromqinterface.download]]
     sha256 = "36019f5670269829263007b9ff483a09f1bcdb1b8212f1d6456cb69b6c08cd15"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.0+0/GAP_pkg_zeromqinterface.v1.180000.0.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.1+0/GAP_pkg_zeromqinterface.v1.180000.1.x86_64-linux-musl.tar.gz"
 [[GAP_pkg_zeromqinterface]]
 arch = "x86_64"
-git-tree-sha1 = "a385615db1037c8527c9b5b6a15e02eb2dba2f5a"
+git-tree-sha1 = "445e5735dccd4edcc38a6faa2b933c54e7f9b32e"
 os = "freebsd"
 
     [[GAP_pkg_zeromqinterface.download]]
-    sha256 = "9c950ce0531d528b1dfb30e3642eba56591dec142d02c3d3bd2830469d25bef4"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.0+0/GAP_pkg_zeromqinterface.v1.180000.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "b6206ed79ecb7aff66d56d8e781e17425f4eb7e1f551c434467e91a48a5032be"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_zeromqinterface_jll.jl/releases/download/GAP_pkg_zeromqinterface-v1.180000.1+0/GAP_pkg_zeromqinterface.v1.180000.1.x86_64-unknown-freebsd.tar.gz"
